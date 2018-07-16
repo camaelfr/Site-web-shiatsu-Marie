@@ -1,0 +1,118 @@
+  /*GENERAL*/
+
+  *
+  {
+    margin: 0;
+    padding: 0;
+  }
+body
+{
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+h1
+{
+  font-family: 'Amatic SC', cursive;
+  font-size: 300%;
+  color: #444;
+}
+ul
+{
+  list-style: lower-greek;
+}
+a
+{
+  text-decoration: none;
+
+}
+
+
+
+  /*HEADER*/
+header
+{
+  height: 200px;
+  position: static;
+}
+header h1
+{
+  float: left;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+header nav
+{
+  float: right;
+  margin-top: 70px;
+  margin-right: 40px;
+}
+header nav ul li
+{
+  display: inline-block;
+  text-transform: uppercase;
+  float: left;
+}
+header nav ul li a
+{
+  color: #444;
+  font-weight: bold;
+  margin-right: 30px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 220%;
+}
+
+header img
+{
+  width: 8%;
+  height: 8%;
+}
+
+  /*Main Image*/
+article
+{
+    height: 600px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    margin: auto;
+    border-radius: 20px;
+    border-width: medium;
+    border-style: solid;
+    border-color: #444;
+}
+.wrapper
+{
+  width: 400px;
+  height: 400px;
+  margin: 100 auto;
+  border-style: solid;
+}
+
+.wrapper a
+{
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* */
